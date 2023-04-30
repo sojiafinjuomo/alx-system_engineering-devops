@@ -5,4 +5,5 @@ n=10
 while [ "$i" -le "$n" ];
 do 
 	echo "Best School"
+	((i++))
 done
